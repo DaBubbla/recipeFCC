@@ -107,7 +107,7 @@ componentDidMount(){
           <Modal.Body>
 
               <FormGroup controlId="formBasicText">
-                <ControlLabel>Recipe Name</ControlLabel>
+                <ControlLabel>Raaaa Name</ControlLabel>
                 <FormControl
                   type="text"
                   value={recipes[currentIndex].recipeName}
